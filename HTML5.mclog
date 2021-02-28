@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2021-02-28T14:57:48.3769192+01:00">
+    <Messages>Publishing target HTML5...
+Publish failed: Destination file not found: file:///C:/git/WinoDomowe/
+Saving log to "C:\git\WinoDomowe\Output\prust\HTML5\HTML5.mclog"
+</Messages>
+    <Warnings />
+    <Errors>
+        <LogEntry File="../../../Project/Targets/HTML5.fltar" Message="Publish failed: Destination file not found: file:///C:/git/WinoDomowe/&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Publisher" Target="HTML5" ErrorID="140003" />
+    </Errors>
+</MadCapLog>

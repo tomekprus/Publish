@@ -1,0 +1,9 @@
+var xmlHelpSystemData = "";
+xmlHelpSystemData += '<?xml version=\"1.0\" encoding=\"utf-8\"?>';
+xmlHelpSystemData += '<WebHelpSystem DefaultUrl=\"Content/A_Opisy/1_Dla_kogo_jest_ten_przewodnik.htm\" Toc=\"Data/Tocs/Online_help.js\" Index=\"Data/Index.js\" Concepts=\"Data/Concepts.js\" Glossary=\"Data/Glossary.js\" SearchDatabase=\"Data/Search.js\" Synonyms=\"Data/Synonyms.xml\" PathToScriptsFolder=\"Resources/Scripts/\" SkinName=\"Tripane\" SkinID=\"Tripane\" Multilingual=\"false\" Skins=\"Tripane\" BuildTime=\"2/28/2021 2:40:46 PM\" BuildVersion=\"16.2.7685.28170\" TargetType=\"WebHelp2\" SkinTemplateFolder=\"Skin/\" InPreviewMode=\"false\" TopNavTocPath=\"true\" MoveOutputContentToRoot=\"false\" ReplaceReservedCharacters=\"false\" MakeFileLowerCase=\"false\" UseCustomTopicFileExtension=\"false\" PreventExternalUrls=\"false\" EnableResponsiveOutput=\"true\" IncludeGlossarySearchResults=\"true\" ResultsPerPage=\"20\" xml:lang=\"en-us\" LanguageName=\"English\" SearchEngine=\"MadCapSearch\" IncludeCSHRuntime=\"true\" DebugMode=\"false\" ShowMadCapBacklink=\"false\">';
+xmlHelpSystemData += '    <CatapultSkin Version=\"3\" SkinType=\"WebHelp2\" Comment=\"HTML5 Default Tripane skin\" Anchors=\"Width,Height\" Width=\"800\" Height=\"600\" Top=\"0\" Left=\"0\" Bottom=\"0\" Right=\"0\" Tabs=\"TOC\" DefaultTab=\"TOC\" UseBrowserDefaultSize=\"True\" UseDefaultBrowserSetup=\"True\" EnableResponsiveOutput=\"True\" AutoSyncTOC=\"true\" RemoveImagesOnSave=\"true\" Name=\"Tripane\" SkinID=\"Tripane\" SkinClass=\"_Skins_Tripane\" HideNavOnStartup=\"False\" LogoUrl=\"\">';
+xmlHelpSystemData += '        <WebHelpOptions />';
+xmlHelpSystemData += '        <Toolbar EnableCustomLayout=\"true\" Buttons=\"Print|ExpandAll|RemoveHighlight|Filler|PreviousTopic|NextTopic\" />';
+xmlHelpSystemData += '    </CatapultSkin>';
+xmlHelpSystemData += '</WebHelpSystem>';
+MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('HelpSystem', xmlHelpSystemData);
